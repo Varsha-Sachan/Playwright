@@ -6,8 +6,8 @@ var abc123 = 40;
 
 //var 123 = 123; (Not Possible)
 
-var Name = "Rupesh";
-var name = "Gunjan";
+var Name = "Varsha";
+var name = "Sachan";
 
 //var rupesh salwe = "Hi"; (Not Possible due to space after rupesh)
 
